@@ -1,0 +1,11 @@
+body{
+  background: pink;
+  font-size: 3rem;
+  text-align: center;
+}
+button{
+  font-size: 3rem;
+  border-radius: 10px;
+  box-shadow: 1px 1px 3px coral;
+  color: orange;
+}
